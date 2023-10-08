@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TBVLCrwjEKTi6wI6hBVa60SNL24ZnBlKdplBjMCSkiHHKJccSgrhCk8b8Ncqwl0zC0fnujRPPVaSiyL6H3m+4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iluxa\\OneDrive\\Рабочий стол\\Тестовое задание ADVANTA\\lib\\lib\\lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iluxa\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\iluxa\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
