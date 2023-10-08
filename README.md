@@ -11,3 +11,14 @@
 3. IPlugin GetPlugin(string pluginName) - возвращает операцию IPlugun по её имени.
 
 #### 2. Интерфейс IPlagin:
+Интерфейс наследующий контракт на 4 переменные (string PluginName, string Version, Image Image, string Description) и метод int Run (int input1, int input2)
+
+1. string PluginName - имя операции
+2. string Version - версия
+3. Image Image - изображение
+4. string Description - расшифровка операции
+5. int Run (int input1, int input2) - операция с двумя переменными
+
+#### В библиотеке есть 4 вида операции: сложение, вычитание, умножение и деление.
+
+#### Тесты и примеры реализации находятся в проекте TestLib.
